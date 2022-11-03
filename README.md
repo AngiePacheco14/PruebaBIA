@@ -1,6 +1,8 @@
 # PruebaBIAAPI
 Clonar proyecto y compilar en Visual Studio 2022
 
+Establecer el proyecto PruebaBIAAPI como proyecto de inicio
+
 
 BD
 
